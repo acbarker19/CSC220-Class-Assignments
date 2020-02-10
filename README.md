@@ -1,4 +1,4 @@
-# CSC220 Class Assignments
+# CSC220: Programming and Problem Solving II
 A repository of multiple small projects from my second programming class, Programming and Problem Solving II, at the University of Mount Union that is taught by Dr. James Klayder.
 
 Some code is supplied by Dr. James Klayder and modified by Alec Barker. Some helper files are used that were created for Princeton University's CS department.
